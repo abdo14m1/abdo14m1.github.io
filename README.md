@@ -21,7 +21,7 @@
 <body>
     <ul class="social-icons">
         <li><a href="https://www.facebook.com/gmghadaali/"></a></li>
-        <li><a href="https://www.linkedin.com/in/abdullah-farag%F0%9F%87%B5%F0%9F%87%B8-0296511b2/"><img src="linkedin-icon.png" alt="LinkedIn"></a></li>
+        <li><a href="[https://www.linkedin.com/in/abdullah-farag%F0%9F%87%B5%F0%9F%87%B8-0296511b2/](https://www.linkedin.com/in/abdullah-farag-0296511b2)"><img src="linkedin-icon.png" alt="LinkedIn"></a></li>
         <li><a href="https://www.instagram.com/abdo14m"><img src="instagram-icon.png" alt="Instagram"></a></li>
     </ul>
 </body>
